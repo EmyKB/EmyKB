@@ -1,10 +1,8 @@
-# Hi dear, how are you? 
+## Hi dear, how are you? 🙋🏻✨
 
-## Welcome to my github, it's a pleasure to have you here!
-
-## Hey, come on, feel free. 
-
-## I'm still starting my projects lol, so wait a little longer and you'll soon see several super cool repositories!!!
+### Hey, welcome to my GitHub, it's a pleasure to have you here! 🎉 
+### I'm still starting my projects and making new discoveries! 🔭.°🪐*.🌌
+So wait a little longer and you'll soon see several super cool repositories!!! ♡
 
 
 <!--
