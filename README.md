@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi dear, how are you? 
+
+## Welcome to my github, it's a pleasure to have you here!
+
+## Hey, come on, feel free. 
+
+## I'm still starting my projects lol, so wait a little longer and you'll soon see several super cool repositories!!!
+
 
 <!--
 **EmyKB/EmyKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
